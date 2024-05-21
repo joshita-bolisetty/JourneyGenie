@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058234735174",
+    "project_id": "joshita-android-application",
+    "storage_bucket": "joshita-android-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058234735174:android:bac15f8a2465e349fb4847",
+        "android_client_info": {
+          "package_name": "com.example.journeygenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUgKytkOaPnsZZPCDZaHsQQy0S21pA5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
